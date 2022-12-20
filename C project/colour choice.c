@@ -4,6 +4,7 @@ main()
 	char ch;
 	printf("\n enter charcter from this r,b,g,w = ");
 	scanf("%c",&ch);
+	printf(" it is a try");
 	if (ch=='r')
 	{
 		printf("\n Red");
